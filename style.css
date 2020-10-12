@@ -1,13 +1,15 @@
 @font-face {
     font-family: 'gabriel_weiss_with_d';
-    src: url('https://www.sykorky.eu/fonts/gabrielweisswd.woff2') format('woff2'),
-    url('https://www.sykorky.eu/fonts/gabrielweisswd.woff') format('woff');
+    src: url('https://www.sykorky.eu/fonts/gabrielweisswd.woff2') format('woff2'), url('https://www.sykorky.eu/fonts/gabrielweisswd.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
     font-family: 'gabriel_weiss_with_d', sans-serif;
+}
+.ampersand {
+    font-family: 'Sriracha', cursive;
 }
 .center {
     display: block;
