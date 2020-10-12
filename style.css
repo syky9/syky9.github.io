@@ -1,13 +1,13 @@
 @font-face {
-    font-family: 'gabriel_weiss_with_diacritiRg';
-    src: url('https://sykorky.eu/fonts/gabrielweisswithdiacritics-regular_1-webfont.woff2') format('woff2'),
-    url('https://sykorky.eu/fonts/gabrielweisswithdiacritics-regular_1-webfont.woff') format('woff');
+    font-family: 'gabriel_weiss_with_d';
+    src: url('https://sykorky.eu/fonts/gabrielweisswd.woff2') format('woff2'),
+    url('https://sykorky.eu/fonts/gabrielweisswd.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
-    font-family: 'gabriel_weiss_with_diacritiRg', sans-serif;
+    font-family: 'gabriel_weiss_with_d', sans-serif;
 }
 .center {
     display: block;
