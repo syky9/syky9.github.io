@@ -7,6 +7,7 @@
 
 body {
     font-family: 'gabriel_weiss_with_d', sans-serif;
+    background-color: #444444;
 }
 .ampersand {
     font-family: 'Sriracha', cursive;
@@ -22,4 +23,23 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.mt-1 {
+    margin-top: 1em;
+}
+.mt-2 {
+    margin-top: 1.5em;
+}
+.mt-3 {
+    margin-top: 3em;
+}
+.page-container {
+    max-width: 1024px;
+    width: 80%;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    padding: 32px;
+    padding-top: 50px;
 }
